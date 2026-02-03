@@ -1,0 +1,7 @@
+Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Price,Variant Inventory Qty,Variant Inventory Policy,Variant Requires Shipping,Variant Taxable,Image Src
+"Ejemplo Producto 1","Descripción breve del producto 1","TuMarca","Categoria","tag1;tag2",TRUE,Size,S,"SKU-001",49.90,10,continue,TRUE,TRUE,https://ejemplo.com/assets/images/producto1.jpg
+"Ejemplo Producto 2","Descripción breve del producto 2","TuMarca","Categoria","tag3;tag4",TRUE,Color,Rojo,"SKU-002",79.90,5,continue,TRUE,TRUE,https://ejemplo.com/assets/images/producto2.jpg
+
+# Instrucciones:
+# - Rellena una fila por producto. Para variantes repite el título y cambia "Option1 Value" y campos de variante.
+# - Sube las imágenes a `assets/images/` y reemplaza `Image Src` por la URL pública o por el nombre de archivo si vas a usar la importación de Shopify con imágenes cargadas previamente.
