@@ -1,0 +1,12 @@
+Hola, soy **Jeffry**, el desarrollador que ayudará a montar y lanzar la tienda.
+
+Necesito acceso para: importar **20 productos (con imágenes)**, verificar y configurar **Shopify Payments**, configurar reglas de **envío para Colombia** y personalizar el **theme**.
+
+**Permisos solicitados (mínimos):** Products (read/write), Themes (read/write), Settings / Manage settings, Orders (read), Apps and channels (manage).
+
+**Email para la invitación:** jeff.gonzalezb@gmail.com
+
+Estimo que con acceso puedo completar la importación y la configuración básica en **1–2 días**. Gracias.
+
+---
+Nota: email corregido. Procede a enviar la invitación cuando quieras.
