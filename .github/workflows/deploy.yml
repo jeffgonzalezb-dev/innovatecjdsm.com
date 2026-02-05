@@ -1,0 +1,59 @@
+name: Deploy Theme a Shopify
+
+on:
+  push:
+    branches:
+      - main
+      - Mi-primer-proyecto
+    paths:
+      - 'theme/**'
+      - '.github/workflows/deploy.yml'
+
+env:
+  SHOPIFY_STORE_URL: ${{ secrets.SHOPIFY_STORE_URL }}
+  SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Shopify CLI
+        run: npm install -g @shopify/cli
+
+      - name: Deploy theme to Shopify
+        run: |
+          shopify theme push --path=theme --allow-live
+        env:
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+
+      - name: Create deployment
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.repos.createDeployment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: context.ref,
+              environment: 'production',
+              description: 'Shopify theme deployment'
+            })
+
+      - name: Notify deployment
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '✅ Theme deployed successfully to Shopify!'
+            })
