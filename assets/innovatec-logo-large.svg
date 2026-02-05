@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066FF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FF99;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF0066;stop-opacity:1" />
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main text with gradient -->
+  <text x="200" y="85" font-family="'Space Grotesk', 'Courier New', monospace" font-size="68" font-weight="900"
+        text-anchor="middle" fill="url(#mainGradient)" filter="url(#strongGlow)" letter-spacing="2">
+    INNOVATEC
+  </text>
+
+  <!-- Accent line under text -->
+  <line x1="50" y1="100" x2="350" y2="100" stroke="#0066FF" stroke-width="2" filter="url(#neonGlow)" opacity="0.8"/>
+  
+  <!-- JDSM subtext -->
+  <text x="200" y="115" font-family="'Space Grotesk', 'Courier New', monospace" font-size="14" font-weight="700"
+        text-anchor="middle" fill="#00FF99" filter="url(#neonGlow)" letter-spacing="3">
+    JDSM
+  </text>
+</svg>
