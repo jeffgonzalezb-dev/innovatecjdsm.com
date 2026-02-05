@@ -1,10 +1,12 @@
-/* Estilos básicos para InnovatecJD */
+/* Estilos básicos para InnovatecJD - Tech Moderno */
 
 :root {
-  --primary-color: #007bff;
-  --secondary-color: #6c757d;
-  --text-color: #212529;
-  --border-color: #dee2e6;
+  --primary-color: #0066FF;      /* Azul eléctrico brillante */
+  --secondary-color: #FF0066;    /* Rosa/Magenta */
+  --accent-color: #00FF99;       /* Verde neón */
+  --bg-dark: #0A0E27;            /* Azul marino oscuro */
+  --text-color: #FFFFFF;
+  --border-color: #1A1F3A;
 }
 
 * {
@@ -31,12 +33,13 @@ body {
 
 /* Header */
 .header {
-  background-color: #fff;
-  border-bottom: 1px solid var(--border-color);
+  background: linear-gradient(135deg, var(--bg-dark), #1a2e5e);
+  border-bottom: 2px solid var(--primary-color);
   padding: 1rem 0;
   position: sticky;
   top: 0;
   z-index: 100;
+  box-shadow: 0 4px 20px rgba(0, 102, 255, 0.1);
 }
 
 .header__content {
@@ -50,6 +53,13 @@ body {
   font-weight: bold;
   color: var(--primary-color);
   text-decoration: none;
+  text-shadow: 0 0 20px rgba(0, 102, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+.header__logo a:hover {
+  color: var(--accent-color);
+  text-shadow: 0 0 30px rgba(0, 255, 153, 0.5);
 }
 
 .logo-image {
@@ -80,8 +90,8 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #f8f9fa;
-  border-top: 1px solid var(--border-color);
+  background: linear-gradient(135deg, #0A0E27, #1a2e5e);
+  border-top: 2px solid var(--primary-color);
   padding: 3rem 0 1rem;
   margin-top: 3rem;
 }
