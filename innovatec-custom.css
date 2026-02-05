@@ -1,0 +1,110 @@
+/* INNOVATEC JDSM - Tech Moderno Color Scheme */
+
+:root {
+  --primary-color: #0066FF;      /* Azul eléctrico */
+  --secondary-color: #FF0066;    /* Rosa/Magenta */
+  --accent-color: #00FF99;       /* Verde neón */
+  --bg-dark: #0A0E27;            /* Azul marino oscuro */
+  --text-light: #FFFFFF;
+  --text-dark: #0A0E27;
+}
+
+/* Header Customization */
+.shopify-section--header,
+header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: var(--text-light);
+  box-shadow: 0 0 20px rgba(0, 102, 255, 0.3);
+}
+
+.header__logo {
+  filter: drop-shadow(0 0 10px rgba(255, 0, 102, 0.5));
+}
+
+/* Primary Buttons */
+button,
+.button,
+input[type="submit"],
+a.btn,
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 102, 255, 0.4);
+  transition: all 0.3s ease;
+}
+
+button:hover,
+.button:hover,
+input[type="submit"]:hover {
+  box-shadow: 0 0 25px rgba(255, 0, 102, 0.6);
+  transform: translateY(-2px);
+}
+
+/* Footer */
+footer,
+.footer {
+  background: var(--bg-dark);
+  color: var(--text-light);
+  border-top: 2px solid var(--primary-color);
+  box-shadow: 0 -5px 15px rgba(0, 102, 255, 0.2);
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-shadow: 0 0 10px rgba(255, 0, 102, 0.3);
+}
+
+/* Product Cards */
+.product-item,
+.product-card,
+.card {
+  border: 1px solid rgba(0, 102, 255, 0.2);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-item:hover,
+.product-card:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 20px rgba(0, 102, 255, 0.3);
+  transform: translateY(-5px);
+}
+
+/* Accent Elements */
+.accent,
+.highlight,
+h1, h2, h3 {
+  color: var(--primary-color);
+}
+
+.text-accent {
+  color: var(--accent-color);
+}
+
+/* Cart Icon */
+.cart-icon {
+  filter: drop-shadow(0 0 8px rgba(0, 255, 153, 0.5));
+}
+
+/* Animations */
+@keyframes neon-glow {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(0, 102, 255, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 102, 255, 0.8);
+  }
+}
+
+.glow {
+  animation: neon-glow 2s ease-in-out infinite;
+}
