@@ -1,16 +1,3 @@
 {
-  "sections": {
-    "banner": {
-      "type": "banner",
-      "settings": {
-        "title": "Bienvenido a {{ shop.name }}",
-        "subtitle": "Descubre nuestros productos",
-        "button_text": "Ir a productos",
-        "button_url": "/collections/all"
-      }
-    }
-  },
-  "order": [
-    "banner"
-  ]
+  "sections": {}
 }
