@@ -9,10 +9,6 @@ on:
       - 'theme/**'
       - '.github/workflows/deploy.yml'
 
-env:
-  SHOPIFY_STORE_URL: ${{ secrets.SHOPIFY_STORE_URL }}
-  SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -33,27 +29,10 @@ jobs:
           shopify theme push --path=theme --allow-live
         env:
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+          SHOPIFY_STORE_URL: ${{ secrets.SHOPIFY_STORE_URL }}
 
-      - name: Create deployment
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.repos.createDeployment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              ref: context.ref,
-              environment: 'production',
-              description: 'Shopify theme deployment'
-            })
-
-      - name: Notify deployment
+      - name: Deployment Success
         if: success()
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: '✅ Theme deployed successfully to Shopify!'
-            })
+        run: |
+          echo "✅ Theme deployed successfully!"
+          echo "Store: ${{ secrets.SHOPIFY_STORE_URL }}"

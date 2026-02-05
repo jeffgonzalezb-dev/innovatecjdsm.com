@@ -1,6 +1,6 @@
 # Configurar GitHub Actions para Deploy Automático
 
-Para que el workflow de deploy automático funcione, necesitas configurar dos **secrets** en GitHub:
+Para que el workflow de deploy automático funcione, necesitas configurar **dos secrets** en GitHub:
 
 ## Pasos:
 
@@ -9,23 +9,14 @@ Tu tienda: `innovatecjdsm.myshopify.com`
 
 ### 2. Obtener SHOPIFY_ADMIN_TOKEN
 
-#### Opción A: Desde Shopify Admin (Recomendado)
+**Opción recomendada: Desde el Dev Dashboard**
 
-1. Ve a tu Admin de Shopify → **Apps** → **App and sales channel settings**
-2. Haz clic en **Develop apps**
-3. Abre la app **"GitHub Deploy"** (o crea una si no existe)
-4. En **Admin API access tokens**, copia el token
-5. **Asegúrate que tenga estos permisos:**
-   - ✅ `write_themes`
-   - ✅ `read_themes`
+1. Ve a tu Shopify Admin → **Apps** → **Develop apps**
+2. Haz clic en **GitHub Deploy** (tu app)
+3. Busca la sección **"Admin API access tokens"**
+4. Copia el token (comienza con `shpat_`)
 
-#### Opción B: Desde Shopify CLI
-
-```bash
-shopify auth token
-```
-
-Esto te dará el token directamente en la terminal.
+**Nota:** Si no ves esa sección, contáctanos para ayuda.
 
 ---
 
