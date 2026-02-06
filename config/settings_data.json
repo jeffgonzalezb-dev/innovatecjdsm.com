@@ -9,7 +9,6 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/innovatec-logo-white.png",
     "logo_height": 100,
     "logo_height_mobile": 80,
     "type_body_font": "work_sans_n4",
@@ -59,10 +58,12 @@
     "button_text_case_secondary": "default",
     "pills_border_radius": 20,
     "cart_type": "drawer",
+    "empty_cart_button_link": "shopify://collections/all",
     "cart_thumbnail_border_radius": 6,
     "icon_stroke": "thin",
     "input_border_width": 1,
     "inputs_border_radius": 6,
+    "popover_color_scheme": "scheme-1",
     "popover_border_radius": 8,
     "popover_border": "none",
     "currency_code_enabled_product_pages": false,
