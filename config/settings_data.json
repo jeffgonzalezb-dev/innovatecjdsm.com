@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/innovatec-logo-large.svg",
-    "logo_inverse": "shopify://shop_images/innovatec-logo-large.svg",
+    "logo": "shopify://shop_images/innovatec-logo-white.svg",
+    "logo_inverse": "shopify://shop_images/innovatec-logo-white.svg",
     "logo_height": 100,
     "logo_height_mobile": 80,
     "type_body_font": "work_sans_n4",
