@@ -61,7 +61,7 @@
           "settings": {
             "menu": "main-menu",
             "color_scheme": "scheme-2",
-            "type_font_primary_size": "1rem",
+            "type_font_primary_size": "0.625rem",
             "menu_font_style": "regular",
             "type_font_primary_link": "heading",
             "type_case_primary_link": "uppercase",
