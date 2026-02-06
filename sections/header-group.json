@@ -57,10 +57,11 @@
         },
         "header-menu": {
           "type": "_header-menu",
+          "disabled": true,
           "static": true,
           "settings": {
-            "menu": "main-menu",
-            "color_scheme": "scheme-2",
+            "menu": "",
+            "color_scheme": "scheme-1",
             "type_font_primary_size": "1rem",
             "menu_font_style": "regular",
             "type_font_primary_link": "heading",
@@ -80,8 +81,8 @@
       },
       "settings": {
         "logo_position": "left",
-        "menu_position": "center",
-        "menu_row": "bottom",
+        "menu_position": "right",
+        "menu_row": "top",
         "show_search": true,
         "search_position": "center",
         "search_row": "top",
