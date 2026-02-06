@@ -57,7 +57,6 @@
         },
         "header-menu": {
           "type": "_header-menu",
-          "disabled": true,
           "static": true,
           "settings": {
             "menu": "",
@@ -81,7 +80,7 @@
       },
       "settings": {
         "logo_position": "left",
-        "menu_position": "right",
+        "menu_position": "left",
         "menu_row": "top",
         "show_search": true,
         "search_position": "center",
