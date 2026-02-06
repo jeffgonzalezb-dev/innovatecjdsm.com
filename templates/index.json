@@ -39,7 +39,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h1><strong>Tecnologia para tu hogar</strong><br>diseño que inspira</h1>",
+                "text": "<h1><strong>Tecnologia para tu hogar</strong><br/>diseños que inspiran</h1>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
