@@ -250,7 +250,7 @@
         "full_frame_on_mobile": false,
         "slideshow_gap": 17,
         "corner_radius": 0,
-        "slide_height": "medium",
+        "slide_height": "large",
         "content_position": "on-media",
         "color_scheme": "scheme-modern-tech",
         "icons_style": "arrows_large",
