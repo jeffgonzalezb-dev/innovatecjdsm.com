@@ -180,7 +180,7 @@
                       "name": "t:names.button",
                       "settings": {
                         "label": "Sobre nosotros",
-                        "link": "",
+                        "link": "shopify://policies/privacy-policy",
                         "open_in_new_tab": false,
                         "style_class": "link",
                         "width": "fit-content",
@@ -195,7 +195,7 @@
                       "name": "t:names.button",
                       "settings": {
                         "label": "Política de devoluciones",
-                        "link": "",
+                        "link": "shopify://policies/refund-policy",
                         "open_in_new_tab": false,
                         "style_class": "link",
                         "width": "fit-content",
@@ -210,7 +210,7 @@
                       "name": "t:names.button",
                       "settings": {
                         "label": "Ayuda y preguntas frecuentes",
-                        "link": "",
+                        "link": "shopify://pages/contact",
                         "open_in_new_tab": false,
                         "style_class": "link",
                         "width": "fit-content",
@@ -330,16 +330,16 @@
                     "custom_width": 100,
                     "inherit_color_scheme": true,
                     "color_scheme": "",
-                    "heading": "",
+                    "heading": "Recibe ofertas exclusivas y novedades directamente en tu correo",
                     "heading_preset": "h3",
                     "border_style": "all",
                     "border_width": 1,
-                    "border_radius": 0,
+                    "border_radius": 6,
                     "input_type_preset": "paragraph",
                     "style_class": "button",
                     "display_type": "text",
-                    "label": "Registrarse",
-                    "integrated_button": false,
+                    "label": "Suscribirse",
+                    "integrated_button": true,
                     "button_type_preset": "paragraph",
                     "padding-block-start": 0,
                     "padding-block-end": 0,
@@ -432,7 +432,7 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 40,
-        "padding-block-end": 0
+        "padding-block-end": 40
       }
     },
     "section_H6C7eR": {
