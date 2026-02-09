@@ -95,7 +95,7 @@
         "section_width": "full-width",
         "section_height": "standard",
         "enable_sticky_header": "never",
-        "divider_width": 2.5,
+        "divider_width": 5,
         "divider_size": "full-width",
         "border_width": 0.5,
         "color_scheme_top": "scheme-3",
