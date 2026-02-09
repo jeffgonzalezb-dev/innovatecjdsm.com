@@ -61,7 +61,7 @@
           "settings": {
             "menu": "main-menu",
             "color_scheme": "scheme-modern-tech",
-            "type_font_primary_size": "1rem",
+            "type_font_primary_size": "1.125rem",
             "menu_font_style": "regular",
             "type_font_primary_link": "heading",
             "type_case_primary_link": "uppercase",
@@ -93,7 +93,7 @@
         "localization_position": "right",
         "localization_row": "top",
         "section_width": "full-width",
-        "section_height": "compact",
+        "section_height": "standard",
         "enable_sticky_header": "never",
         "divider_width": 2.5,
         "divider_size": "full-width",
