@@ -324,8 +324,8 @@
       "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4": {
         "settings": {
           "background": "{{ shop.brand.colors.primary[1].background }}",
-          "foreground_heading": "#be0eadd2",
-          "foreground": "#110416",
+          "foreground_heading": "#be0eadd1",
+          "foreground": "#1ad92c",
           "primary": "#104556",
           "primary_hover": "#041116",
           "border": "#eef4f6",
