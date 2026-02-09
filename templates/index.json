@@ -115,7 +115,7 @@
         "media_height": "auto",
         "section_width": "full-width",
         "extend_media": true,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-modern-tech",
         "padding-block-start": 56,
         "padding-block-end": 56
       }
@@ -217,7 +217,7 @@
         "icons_shape": "none",
         "section_width": "page-width",
         "gap": 24,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-modern-tech",
         "padding-block-start": 40,
         "padding-block-end": 40
       }
@@ -456,7 +456,7 @@
         "section_width": "page-width",
         "horizontal_alignment": "flex-start",
         "gap": 28,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-modern-tech",
         "padding-block-start": 0,
         "padding-block-end": 60
       }
@@ -567,7 +567,7 @@
         "section_width": "page-width",
         "section_height": "medium",
         "section_height_custom": 50,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-modern-tech",
         "background_media": "none",
         "video_position": "cover",
         "background_image_position": "cover",
