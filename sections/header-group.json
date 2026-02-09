@@ -17,7 +17,7 @@
         "announcement_text": {
           "type": "_announcement",
           "settings": {
-            "text": "Envio gratis en compras mayores a $200.000",
+            "text": "📦💜 Envío GRATIS a toda Colombia ¡En todos tus pedidos! 🇨🇴",
             "link": "",
             "font": "var(--font-body--family)",
             "font_size": "0.875rem",
@@ -34,10 +34,10 @@
       "settings": {
         "speed": 5,
         "section_width": "full-width",
-        "color_scheme": "scheme-modern-tech",
+        "color_scheme": "scheme-logo-blue",
         "divider_width": 0,
-        "padding-block-start": 6,
-        "padding-block-end": 6
+        "padding-block-start": 9,
+        "padding-block-end": 0
       }
     },
     "header_section": {
@@ -101,7 +101,7 @@
         "color_scheme_top": "scheme-3",
         "color_scheme_bottom": "scheme-3",
         "color_scheme_transparent": "scheme-6",
-        "enable_transparent_header_home": false,
+        "enable_transparent_header_home": true,
         "home_color_scheme": "default",
         "enable_transparent_header_product": false,
         "product_color_scheme": "default",
