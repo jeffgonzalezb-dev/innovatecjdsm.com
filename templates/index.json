@@ -303,7 +303,7 @@
         "full_frame_on_mobile": false,
         "slideshow_gap": 12,
         "corner_radius": 0,
-        "slide_height": "auto",
+        "slide_height": "medium",
         "content_position": "on-media",
         "color_scheme": "scheme-modern-tech",
         "icons_style": "arrows_large",
