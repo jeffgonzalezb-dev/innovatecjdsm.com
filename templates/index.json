@@ -255,7 +255,7 @@
         "color_scheme": "scheme-modern-tech",
         "icons_style": "chevron_large",
         "icons_shape": "none",
-        "slideshow_controls_style": "counter",
+        "slideshow_controls_style": "none",
         "autoplay": true,
         "autoplay_speed": 4,
         "padding-block-start": 0,
