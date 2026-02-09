@@ -9,115 +9,111 @@
  */
 {
   "sections": {
-    "media_with_content_RVymQU": {
-      "type": "media-with-content",
+    "hero_KhbncE": {
+      "type": "hero",
       "blocks": {
-        "media": {
-          "type": "_media-without-appearance",
-          "static": true,
+        "text_ydw8ct": {
+          "type": "text",
           "settings": {
-            "media_type": "image",
-            "image": "shopify://shop_images/1708188525IMG_2047.jpg",
-            "link": "shopify://products/protector-para-colchon-tipo-bamboo",
-            "video_loop": true,
-            "video_autoplay": false,
-            "image_position": "cover",
-            "video_position": "cover"
+            "text": "<p>Descubre Productos para tu Hogar</p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h1",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
           "blocks": {}
         },
-        "content": {
-          "type": "_content-without-appearance",
-          "static": true,
+        "text_4GyUMd": {
+          "type": "text",
           "settings": {
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 20
+            "text": "<p>Encuentra todo lo que necesitas: hogar, cocina, tecnología y más</p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 32,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
-          "blocks": {
-            "text_H46yFc": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h1><strong>Tecnologia para tu hogar</strong><br/>diseños que inspiran</h1>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "custom",
-                "font": "var(--font-heading--family)",
-                "font_size": "6rem",
-                "line_height": "tight",
-                "letter_spacing": "tight",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground-heading)",
-                "background": false,
-                "background_color": "#343c5633",
-                "corner_radius": 12,
-                "padding-block-start": 24,
-                "padding-block-end": 24,
-                "padding-inline-start": 32,
-                "padding-inline-end": 32
-              },
-              "blocks": {}
-            },
-            "text_subtitle_osistica": {
-              "type": "text",
-              "settings": {
-                "text": "<p>Soluciones tecnicas y productos seleccionados para elevar tu espacio y tu dia a dia.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "paragraph",
-                "font": "var(--font-body--family)",
-                "font_size": "1.1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_osistica": {
-              "type": "button",
-              "settings": {
-                "label": "Explorar articulos",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
+          "blocks": {}
+        },
+        "button_P7tAQG": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Ver Colecciones",
+            "link": "shopify://collections",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
           },
-          "block_order": [
-            "text_H46yFc",
-            "text_subtitle_osistica",
-            "button_osistica"
-          ]
+          "blocks": {}
         }
       },
-      "name": "t:names.editorial",
+      "block_order": [
+        "text_ydw8ct",
+        "text_4GyUMd",
+        "button_P7tAQG"
+      ],
+      "name": "t:names.hero",
       "settings": {
-        "media_position": "right",
-        "media_width": "wide",
-        "media_height": "auto",
-        "section_width": "full-width",
-        "extend_media": true,
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/banner-principal.png",
+        "media_type_2": "image",
+        "stack_media_on_mobile": false,
+        "custom_mobile_media": false,
+        "media_type_1_mobile": "image",
+        "media_type_2_mobile": "image",
+        "link": "",
+        "open_in_new_tab": false,
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
         "color_scheme": "scheme-modern-tech",
-        "padding-block-start": 56,
-        "padding-block-end": 56
+        "toggle_overlay": true,
+        "overlay_color": "#00000026",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     },
     "collection_list_osistica": {
@@ -461,6 +457,117 @@
         "padding-block-end": 60
       }
     },
+    "media_with_content_RVymQU": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/1708188525IMG_2047.jpg",
+            "link": "shopify://products/protector-para-colchon-tipo-bamboo",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 20
+          },
+          "blocks": {
+            "text_H46yFc": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h1><strong>Tecnologia para tu hogar</strong><br/>diseños que inspiran</h1>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "custom",
+                "font": "var(--font-heading--family)",
+                "font_size": "6rem",
+                "line_height": "tight",
+                "letter_spacing": "tight",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground-heading)",
+                "background": false,
+                "background_color": "#343c5633",
+                "corner_radius": 12,
+                "padding-block-start": 24,
+                "padding-block-end": 24,
+                "padding-inline-start": 32,
+                "padding-inline-end": 32
+              },
+              "blocks": {}
+            },
+            "text_subtitle_osistica": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Soluciones tecnicas y productos seleccionados para elevar tu espacio y tu dia a dia.</p>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1.1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_osistica": {
+              "type": "button",
+              "settings": {
+                "label": "Explorar articulos",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_H46yFc",
+            "text_subtitle_osistica",
+            "button_osistica"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "right",
+        "media_width": "wide",
+        "media_height": "auto",
+        "section_width": "full-width",
+        "extend_media": true,
+        "color_scheme": "scheme-modern-tech",
+        "padding-block-start": 56,
+        "padding-block-end": 56
+      }
+    },
     "section_x8mrnx": {
       "type": "section",
       "blocks": {
@@ -585,9 +692,10 @@
     }
   },
   "order": [
-    "media_with_content_RVymQU",
+    "hero_KhbncE",
     "collection_list_osistica",
     "product_list_themegen",
+    "media_with_content_RVymQU",
     "section_x8mrnx"
   ]
 }
