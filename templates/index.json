@@ -17,7 +17,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/calidad-en-cada-producto-cuadrada.png",
+            "image_1": "shopify://shop_images/calidad-en-cada-producto_0835b55f-4958-4d13-8819-09ddebb4cdb2.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -62,7 +62,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/organiza-tu-hogar.png",
+            "image_1": "shopify://shop_images/organiza-tu-hogar_7ab977d5-9128-4185-925b-3b7fcd6406e9.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -106,7 +106,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/todo-lo-que-necesitas-en-un-solo-lugar-cuadrada.png",
+            "image_1": "shopify://shop_images/todo-lo-que-necesitas.png",
             "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "center",
@@ -150,7 +150,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/descubre-los-m-s-vendidos.png",
+            "image_1": "shopify://shop_images/descubre-los-m-s-vendidos_9f33eddc-a5e3-40dd-993f-82acc5e852fa.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -195,7 +195,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/tecnolog-a-que-innova.png",
+            "image_1": "shopify://shop_images/tecnolog-a-que-innova_642b39ef-d03a-491a-b435-b2eb0ec0d0ab.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
