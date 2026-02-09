@@ -40,6 +40,7 @@
           "blocks": {
             "button_6UYk4U": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Comprar Ahora",
                 "link": "shopify://collections/all",
@@ -85,6 +86,7 @@
           "blocks": {
             "button_XDEzU7": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Ver Productos",
                 "link": "shopify://collections/hogar-y-cocina",
@@ -129,6 +131,7 @@
           "blocks": {
             "button_apYJtW": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Ver Colecciones",
                 "link": "shopify://collections",
@@ -173,6 +176,7 @@
           "blocks": {
             "button_bxXcPi": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Comprar ahora",
                 "link": "shopify://collections/all",
@@ -218,6 +222,7 @@
           "blocks": {
             "button_aq6rTq": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Ver Electrónicos",
                 "link": "shopify://collections/electronicos-y-tecnologia",
