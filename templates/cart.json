@@ -17,7 +17,7 @@
           "static": true,
           "settings": {
             "title": "",
-            "show_count": true,
+            "show_count": false,
             "type_preset": "",
             "alignment": "center",
             "padding-block-start": 0,
