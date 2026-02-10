@@ -14,41 +14,6 @@
     "section_beBRk7": {
       "type": "section",
       "blocks": {
-        "button_hH9Nt6": {
-          "type": "button",
-          "name": "t:names.button",
-          "settings": {
-            "label": "WhatsApp",
-            "link": "https://wa.me/573244766717",
-            "open_in_new_tab": true,
-            "style_class": "button",
-            "width": "fit-content",
-            "custom_width": 100,
-            "width_mobile": "fit-content",
-            "custom_width_mobile": 100
-          },
-          "blocks": {}
-        },
-        "social_links_XXFDYf": {
-          "type": "social-links",
-          "name": "t:names.social_media_links",
-          "settings": {
-            "facebook_url": "https://www.facebook.com/profile.php?id=61587864241598",
-            "instagram_url": "",
-            "youtube_url": "",
-            "tiktok_url": "",
-            "twitter_url": "",
-            "threads_url": "",
-            "linkedin_url": "",
-            "bluesky_url": "",
-            "snapchat_url": "",
-            "pinterest_url": "",
-            "tumblr_url": "",
-            "vimeo_url": "",
-            "custom_url": "https://wa.me/573244766717"
-          },
-          "blocks": {}
-        },
         "group_Bz6TNR": {
           "type": "group",
           "name": "t:names.group",
@@ -272,14 +237,14 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "content_direction": "column",
+                "content_direction": "row",
                 "vertical_on_mobile": true,
-                "horizontal_alignment": "flex-start",
+                "horizontal_alignment": "center",
                 "vertical_alignment": "center",
                 "align_baseline": false,
                 "horizontal_alignment_flex_direction_column": "flex-start",
                 "vertical_alignment_flex_direction_column": "center",
-                "gap": 16,
+                "gap": 20,
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
@@ -415,8 +380,6 @@
         }
       },
       "block_order": [
-        "button_hH9Nt6",
-        "social_links_XXFDYf",
         "group_Bz6TNR",
         "group_cRC6jB"
       ],
