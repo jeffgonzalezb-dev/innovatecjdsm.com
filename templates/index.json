@@ -349,11 +349,12 @@
           "hogar-y-cocina",
           "mascotas",
           "electronicos-y-tecnologia",
-          "bano-y-dormitorio"
+          "bano-y-dormitorio",
+          "salud-y-confort"
         ],
         "layout_type": "grid",
         "carousel_on_mobile": false,
-        "columns": 3,
+        "columns": 5,
         "mobile_columns": "2",
         "mobile_card_size": "60cqw",
         "columns_gap": 40,
