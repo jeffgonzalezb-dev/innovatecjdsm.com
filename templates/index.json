@@ -250,16 +250,16 @@
         "full_frame_on_mobile": false,
         "slideshow_gap": 17,
         "corner_radius": 0,
-        "slide_height": "medium",
+        "slide_height": "large",
         "content_position": "on-media",
-        "color_scheme": "scheme-modern-tech",
+        "color_scheme": "scheme-logo-blue",
         "icons_style": "none",
         "icons_shape": "circle",
         "slideshow_controls_style": "none",
         "autoplay": true,
-        "autoplay_speed": 4,
-        "padding-block-start": 0,
-        "padding-block-end": 0
+        "autoplay_speed": 5,
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     },
     "collection_list_osistica": {
