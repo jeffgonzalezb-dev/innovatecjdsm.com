@@ -325,7 +325,7 @@
         "settings": {
           "background": "{{ shop.brand.colors.primary[1].background }}",
           "foreground_heading": "#be0eadd1",
-          "foreground": "#1ad92c",
+          "foreground": "#104556",
           "primary": "#104556",
           "primary_hover": "#041116",
           "border": "#eef4f6",
