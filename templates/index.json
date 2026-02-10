@@ -370,10 +370,10 @@
         "padding-block-end": 80
       }
     },
-    "section_PizLzr": {
+    "section_iKKHFN": {
       "type": "section",
       "blocks": {
-        "group_UL8MwE": {
+        "group_DX4cGf": {
           "type": "group",
           "settings": {
             "content_direction": "column",
@@ -412,7 +412,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "icon_iRQWxT": {
+            "icon_JLPhPX": {
               "type": "icon",
               "settings": {
                 "icon": "eye",
@@ -422,7 +422,7 @@
               },
               "blocks": {}
             },
-            "group_znwnTx": {
+            "group_z7PjbU": {
               "type": "group",
               "settings": {
                 "content_direction": "column",
@@ -461,10 +461,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "text_zXfCQT": {
+                "text_wRAKgb": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Diseño intencional</h2>",
+                    "text": "<h2>Envío Rápido</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -486,10 +486,10 @@
                   },
                   "blocks": {}
                 },
-                "text_rQNE7C": {
+                "text_NgRXMF": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Todo lo que hacemos empieza con el porqué</p>",
+                    "text": "<p>Entrega en 3-7 días hábiles</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -513,17 +513,17 @@
                 }
               },
               "block_order": [
-                "text_zXfCQT",
-                "text_rQNE7C"
+                "text_wRAKgb",
+                "text_NgRXMF"
               ]
             }
           },
           "block_order": [
-            "icon_iRQWxT",
-            "group_znwnTx"
+            "icon_JLPhPX",
+            "group_z7PjbU"
           ]
         },
-        "group_qLRcww": {
+        "group_Gd34bD": {
           "type": "group",
           "settings": {
             "content_direction": "column",
@@ -562,7 +562,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "icon_NwVCEU": {
+            "icon_eKanwY": {
               "type": "icon",
               "settings": {
                 "icon": "heart",
@@ -572,7 +572,7 @@
               },
               "blocks": {}
             },
-            "group_x7zhRc": {
+            "group_ayc7yT": {
               "type": "group",
               "settings": {
                 "content_direction": "column",
@@ -611,10 +611,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "text_xipxg3": {
+                "text_nFLaLA": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Hecho con cuidado</h2>",
+                    "text": "<h2>Pago Seguro</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -636,10 +636,10 @@
                   },
                   "blocks": {}
                 },
-                "text_KBDfF9": {
+                "text_DEUN7R": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Creemos en hacer las cosas mejor</p>",
+                    "text": "<p>Compra con total confianza</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -663,17 +663,17 @@
                 }
               },
               "block_order": [
-                "text_xipxg3",
-                "text_KBDfF9"
+                "text_nFLaLA",
+                "text_DEUN7R"
               ]
             }
           },
           "block_order": [
-            "icon_NwVCEU",
-            "group_x7zhRc"
+            "icon_eKanwY",
+            "group_ayc7yT"
           ]
         },
-        "group_96TPLb": {
+        "group_xprLzm": {
           "type": "group",
           "settings": {
             "content_direction": "column",
@@ -712,7 +712,7 @@
             "padding-inline-end": 0
           },
           "blocks": {
-            "icon_htkqhe": {
+            "icon_gtpCyT": {
               "type": "icon",
               "settings": {
                 "icon": "silhouette",
@@ -722,7 +722,7 @@
               },
               "blocks": {}
             },
-            "group_QNteKG": {
+            "group_pYBwM9": {
               "type": "group",
               "settings": {
                 "content_direction": "column",
@@ -761,10 +761,10 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "text_aGgyyb": {
+                "text_NeKtFM": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Un equipo con un objetivo</h2>",
+                    "text": "<h2>Devoluciones Fáciles</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -786,10 +786,10 @@
                   },
                   "blocks": {}
                 },
-                "text_ijJW73": {
+                "text_cpxYym": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Personas reales creando grandes productos</p>",
+                    "text": "<p>30 días de garantía</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -813,21 +813,21 @@
                 }
               },
               "block_order": [
-                "text_aGgyyb",
-                "text_ijJW73"
+                "text_NeKtFM",
+                "text_cpxYym"
               ]
             }
           },
           "block_order": [
-            "icon_htkqhe",
-            "group_QNteKG"
+            "icon_gtpCyT",
+            "group_pYBwM9"
           ]
         }
       },
       "block_order": [
-        "group_UL8MwE",
-        "group_qLRcww",
-        "group_96TPLb"
+        "group_DX4cGf",
+        "group_Gd34bD",
+        "group_xprLzm"
       ],
       "name": "t:names.icons_with_text",
       "settings": {
@@ -838,7 +838,7 @@
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
-        "gap": 40,
+        "gap": 32,
         "section_width": "page-width",
         "section_height": "",
         "section_height_custom": 50,
@@ -1822,7 +1822,7 @@
   "order": [
     "slideshow_emqa4p",
     "collection_list_osistica",
-    "section_PizLzr",
+    "section_iKKHFN",
     "product_list_themegen",
     "section_NQYt8Y",
     "media_with_content_RVymQU",
