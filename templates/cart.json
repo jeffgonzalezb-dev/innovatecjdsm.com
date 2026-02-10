@@ -29,7 +29,6 @@
         },
         "cart-page-items": {
           "type": "_cart-products",
-          "disabled": true,
           "static": true,
           "settings": {
             "gap": 12,
