@@ -72,7 +72,7 @@
             "navigation_bar": true,
             "color_scheme_navigation_bar": "scheme-modern-tech",
             "drawer_accordion": true,
-            "drawer_accordion_expand_first": true,
+            "drawer_accordion_expand_first": false,
             "drawer_dividers": true
           },
           "blocks": {}
