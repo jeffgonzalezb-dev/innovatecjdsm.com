@@ -60,7 +60,7 @@
           "static": true,
           "settings": {
             "menu": "footer",
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-modern-tech",
             "type_font_primary_size": "0.625rem",
             "menu_font_style": "inverse",
             "type_font_primary_link": "heading",
