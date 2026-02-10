@@ -252,8 +252,8 @@
         "settings": {
           "background": "#4a7ba7",
           "foreground_heading": "#ffffff",
-          "foreground": "#001a2e",
-          "primary": "#001a2e",
+          "foreground": "#001f3f",
+          "primary": "#001f3f",
           "primary_hover": "#ffffff",
           "border": "#5a8bb7",
           "shadow": "#00000021",
