@@ -12,6 +12,21 @@
     "cart-section": {
       "type": "main-cart",
       "blocks": {
+        "button_Njh4Xj": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "SEGUIR COMPRANDO",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": true,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        },
         "cart-page-title": {
           "type": "_cart-title",
           "static": true,
@@ -29,6 +44,7 @@
         },
         "cart-page-items": {
           "type": "_cart-products",
+          "disabled": true,
           "static": true,
           "settings": {
             "gap": 12,
@@ -44,6 +60,7 @@
         },
         "cart-page-summary": {
           "type": "_cart-summary",
+          "disabled": true,
           "static": true,
           "settings": {
             "extend_summary": true,
@@ -57,6 +74,9 @@
           "blocks": {}
         }
       },
+      "block_order": [
+        "button_Njh4Xj"
+      ],
       "settings": {
         "section_width": "page-width",
         "color_scheme": "scheme-logo-blue",
