@@ -16,7 +16,7 @@
           "type": "_cart-title",
           "static": true,
           "settings": {
-            "title": "Cart",
+            "title": "",
             "show_count": true,
             "type_preset": "h2",
             "alignment": "center",
