@@ -60,8 +60,8 @@
           "static": true,
           "settings": {
             "menu": "footer",
-            "color_scheme": "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4",
-            "type_font_primary_size": "0.875rem",
+            "color_scheme": "scheme-logo-blue",
+            "type_font_primary_size": "0.625rem",
             "menu_font_style": "inverse",
             "type_font_primary_link": "heading",
             "type_case_primary_link": "uppercase",
