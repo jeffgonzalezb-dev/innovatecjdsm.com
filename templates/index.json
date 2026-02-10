@@ -1143,6 +1143,7 @@
               "type": "icon",
               "settings": {
                 "icon": "eye",
+                "image_upload": "shopify://shop_images/cono-de-env-o.png",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -1293,6 +1294,7 @@
               "type": "icon",
               "settings": {
                 "icon": "heart",
+                "image_upload": "shopify://shop_images/cono-de-pago-seguro.png",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -1443,6 +1445,7 @@
               "type": "icon",
               "settings": {
                 "icon": "silhouette",
+                "image_upload": "shopify://shop_images/cono-de-garant-a.png",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
