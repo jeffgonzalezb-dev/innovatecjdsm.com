@@ -44,7 +44,6 @@
         },
         "cart-page-summary": {
           "type": "_cart-summary",
-          "disabled": true,
           "static": true,
           "settings": {
             "extend_summary": true,
