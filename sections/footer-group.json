@@ -604,7 +604,7 @@
           "type": "footer-copyright",
           "settings": {
             "show_powered_by": true,
-            "font_size": "0.75rem",
+            "font_size": "0.875rem",
             "case": "none"
           },
           "blocks": {}
@@ -613,7 +613,7 @@
           "type": "footer-policy-list",
           "disabled": true,
           "settings": {
-            "font_size": "0.75rem",
+            "font_size": "0.875rem",
             "case": "none"
           },
           "blocks": {}
@@ -644,12 +644,12 @@
         "block_ce9b3922bd5f"
       ],
       "settings": {
-        "section_width": "page-width",
-        "gap": 24,
-        "divider_thickness": 1,
-        "color_scheme": "scheme-modern-tech",
-        "padding-block-start": 20,
-        "padding-block-end": 20
+        "section_width": "full-width",
+        "gap": 48,
+        "divider_thickness": 2,
+        "color_scheme": "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4",
+        "padding-block-start": 60,
+        "padding-block-end": 60
       }
     }
   },
