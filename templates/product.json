@@ -16,9 +16,9 @@
           "type": "_product-media-gallery",
           "static": true,
           "settings": {
-            "media_presentation": "carousel",
+            "media_presentation": "grid",
             "media_columns": "one",
-            "image_gap": 4,
+            "image_gap": 24,
             "large_first_image": false,
             "icons_style": "none",
             "slideshow_controls_style": "counter",
