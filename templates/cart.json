@@ -18,10 +18,10 @@
           "settings": {
             "title": "Cart",
             "show_count": true,
-            "type_preset": "h4",
-            "alignment": "left",
+            "type_preset": "h2",
+            "alignment": "center",
             "padding-block-start": 0,
-            "padding-block-end": 0,
+            "padding-block-end": 32,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
@@ -31,12 +31,12 @@
           "type": "_cart-products",
           "static": true,
           "settings": {
-            "gap": 24,
-            "image_ratio": "portrait",
+            "gap": 32,
+            "image_ratio": "square",
             "dividers": true,
             "vendor": false,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
+            "padding-block-start": 24,
+            "padding-block-end": 24,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
@@ -47,21 +47,21 @@
           "static": true,
           "settings": {
             "extend_summary": true,
-            "inherit_color_scheme": false,
+            "inherit_color_scheme": true,
             "color_scheme": "scheme-2",
-            "border": "none",
-            "border_width": 1,
+            "border": "solid",
+            "border_width": 2,
             "border_opacity": 100,
-            "border_radius": 0
+            "border_radius": 12
           },
           "blocks": {}
         }
       },
       "settings": {
         "section_width": "page-width",
-        "color_scheme": "",
-        "padding-block-start": 24,
-        "padding-block-end": 0
+        "color_scheme": "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4",
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     },
     "product_list_NNFgcy": {

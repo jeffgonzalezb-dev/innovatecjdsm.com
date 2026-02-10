@@ -59,7 +59,7 @@
     "type_font_button_secondary": "body",
     "button_text_case_secondary": "default",
     "pills_border_radius": 20,
-    "cart_type": "page",
+    "cart_type": "drawer",
     "empty_cart_button_link": "shopify://collections/all",
     "cart_thumbnail_border": "solid",
     "cart_thumbnail_border_width": 0,
