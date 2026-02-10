@@ -464,7 +464,7 @@
                 "text_wRAKgb": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Envío Rápido</h2>",
+                    "text": "<h2>Envío Rápido y Seguro</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -489,7 +489,7 @@
                 "text_NgRXMF": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Entrega en 3-7 días hábiles</p>",
+                    "text": "<p>Recibe tus productos en 3-7 días hábiles en toda Colombia</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -614,7 +614,7 @@
                 "text_nFLaLA": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Pago Seguro</h2>",
+                    "text": "<h2>Pago 100% Seguro</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -639,7 +639,7 @@
                 "text_DEUN7R": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Compra con total confianza</p>",
+                    "text": "<p>Protegemos tu información con encriptación de última generación</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -764,7 +764,7 @@
                 "text_NeKtFM": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Devoluciones Fáciles</h2>",
+                    "text": "<h2>Garantía de Satisfacción</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -789,7 +789,7 @@
                 "text_cpxYym": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>30 días de garantía</p>",
+                    "text": "<p>30 días para devoluciones. Tu satisfacción es nuestra prioridad</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
