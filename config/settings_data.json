@@ -60,6 +60,7 @@
     "button_text_case_secondary": "default",
     "pills_border_radius": 20,
     "cart_type": "drawer",
+    "show_installments": false,
     "show_accelerated_checkout_buttons": false,
     "empty_cart_button_link": "shopify://collections/all",
     "cart_thumbnail_border": "solid",
