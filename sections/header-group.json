@@ -59,7 +59,7 @@
           "type": "_header-menu",
           "static": true,
           "settings": {
-            "menu": "main-menu",
+            "menu": "footer",
             "color_scheme": "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4",
             "type_font_primary_size": "0.875rem",
             "menu_font_style": "inverse",
@@ -111,15 +111,6 @@
     },
     "1770764394a376a00c": {
       "type": "_blocks",
-      "blocks": {
-        "google_youtube_automated_discounts_price_bx9By8": {
-          "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "google_youtube_automated_discounts_price_bx9By8"
-      ],
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,
