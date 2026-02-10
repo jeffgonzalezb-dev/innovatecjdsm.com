@@ -80,11 +80,12 @@
         "vertical_alignment_flex_direction_column": "center",
         "gap": 24,
         "section_width": "page-width",
-        "section_height": "large",
+        "section_height": "small",
         "section_height_custom": 50,
         "color_scheme": "scheme-f044b31d-3602-43ba-8f84-d9fd122592e4",
         "background_media": "image",
         "video_position": "cover",
+        "background_image": "shopify://shop_images/ba-o-y-dormitorio.png",
         "background_image_position": "cover",
         "border": "none",
         "border_width": 1,
@@ -94,8 +95,8 @@
         "overlay_color": "#00000066",
         "overlay_style": "gradient",
         "gradient_direction": "to bottom",
-        "padding-block-start": 100,
-        "padding-block-end": 100
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     },
     "main": {
