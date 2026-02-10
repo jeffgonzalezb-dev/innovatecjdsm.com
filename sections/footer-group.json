@@ -14,36 +14,6 @@
     "section_beBRk7": {
       "type": "section",
       "blocks": {
-        "button_atGfV3": {
-          "type": "button",
-          "name": "t:names.button",
-          "settings": {
-            "label": "WhatsApp",
-            "link": "https://wa.me/573244766717",
-            "open_in_new_tab": true,
-            "style_class": "button",
-            "width": "fit-content",
-            "custom_width": 100,
-            "width_mobile": "fit-content",
-            "custom_width_mobile": 100
-          },
-          "blocks": {}
-        },
-        "button_GbJV39": {
-          "type": "button",
-          "name": "t:names.button",
-          "settings": {
-            "label": "Facebook",
-            "link": "https://www.facebook.com/profile.php?id=61587864241598",
-            "open_in_new_tab": true,
-            "style_class": "button",
-            "width": "fit-content",
-            "custom_width": 100,
-            "width_mobile": "fit-content",
-            "custom_width_mobile": 100
-          },
-          "blocks": {}
-        },
         "group_Bz6TNR": {
           "type": "group",
           "name": "t:names.group",
@@ -371,9 +341,9 @@
           "type": "group",
           "name": "t:names.group",
           "settings": {
-            "content_direction": "column",
+            "content_direction": "row",
             "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
+            "horizontal_alignment": "center",
             "vertical_alignment": "center",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
@@ -406,12 +376,45 @@
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {}
+          "blocks": {
+            "button_RQepmi": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "WhatsApp",
+                "link": "https://wa.me/573244766717",
+                "open_in_new_tab": true,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            },
+            "button_EyPEWe": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=61587864241598",
+                "open_in_new_tab": true,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "button_RQepmi",
+            "button_EyPEWe"
+          ]
         }
       },
       "block_order": [
-        "button_atGfV3",
-        "button_GbJV39",
         "group_Bz6TNR",
         "group_cRC6jB"
       ],
