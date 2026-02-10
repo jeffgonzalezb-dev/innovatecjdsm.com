@@ -346,7 +346,10 @@
       ],
       "settings": {
         "collection_list": [
-          "hogar-y-cocina"
+          "hogar-y-cocina",
+          "mascotas",
+          "electronicos-y-tecnologia",
+          "bano-y-dormitorio"
         ],
         "layout_type": "grid",
         "carousel_on_mobile": false,
