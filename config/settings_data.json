@@ -134,7 +134,7 @@
       "scheme-2": {
         "settings": {
           "background": "#121212",
-          "foreground_heading": "#ffffff",
+          "foreground_heading": "#000000",
           "foreground": "#eef4f6",
           "primary": "#cddfe5",
           "primary_hover": "#eef4f6",
