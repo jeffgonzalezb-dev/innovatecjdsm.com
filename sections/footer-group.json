@@ -14,6 +14,26 @@
     "section_beBRk7": {
       "type": "section",
       "blocks": {
+        "social_links_XXFDYf": {
+          "type": "social-links",
+          "name": "t:names.social_media_links",
+          "settings": {
+            "facebook_url": "https://www.facebook.com/profile.php?id=61587864241598",
+            "instagram_url": "",
+            "youtube_url": "",
+            "tiktok_url": "",
+            "twitter_url": "",
+            "threads_url": "",
+            "linkedin_url": "",
+            "bluesky_url": "",
+            "snapchat_url": "",
+            "pinterest_url": "",
+            "tumblr_url": "",
+            "vimeo_url": "",
+            "custom_url": "https://wa.me/573244766717"
+          },
+          "blocks": {}
+        },
         "group_Bz6TNR": {
           "type": "group",
           "name": "t:names.group",
@@ -380,6 +400,7 @@
         }
       },
       "block_order": [
+        "social_links_XXFDYf",
         "group_Bz6TNR",
         "group_cRC6jB"
       ],
