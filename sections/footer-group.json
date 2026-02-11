@@ -407,7 +407,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "TikTok",
+                "label": "𝕿",
                 "link": "https://www.tiktok.com/@innovatecjdsm",
                 "open_in_new_tab": true,
                 "style_class": "button",
@@ -422,7 +422,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "WhatsApp",
+                "label": "💬",
                 "link": "https://wa.me/573244766717",
                 "open_in_new_tab": true,
                 "style_class": "button",
@@ -437,7 +437,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Facebook",
+                "label": "f",
                 "link": "https://www.facebook.com/profile.php?id=61587864241598",
                 "open_in_new_tab": true,
                 "style_class": "button",
