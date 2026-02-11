@@ -17,7 +17,7 @@
         "announcement_text": {
           "type": "_announcement",
           "settings": {
-            "text": "📦💜 Envío GRATIS a toda Colombia ¡En todos tus pedidos! 🇨🇴",
+            "text": "🚚 Envío GRATIS en compras superiores a $150.000 COP | 💳 Paga seguro con todos los medios de pago",
             "link": "",
             "font": "var(--font-body--family)",
             "font_size": "0.875rem",
