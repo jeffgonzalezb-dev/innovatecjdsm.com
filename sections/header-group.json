@@ -50,7 +50,7 @@
             "hide_logo_on_home_page": false,
             "padding-block-start": 10,
             "padding-block-end": 10,
-            "padding-inline-start": 0,
+            "padding-inline-start": 75,
             "padding-inline-end": 0
           },
           "blocks": {}
