@@ -372,7 +372,7 @@
             "max_width": "normal",
             "alignment": "center",
             "type_preset": "custom",
-            "font": "var(--font-subheading--family)",
+            "font": "var(--font-heading--family)",
             "font_size": "5.5rem",
             "line_height": "tight",
             "letter_spacing": "normal",
