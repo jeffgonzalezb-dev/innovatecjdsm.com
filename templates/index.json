@@ -257,9 +257,9 @@
         "icons_shape": "none",
         "slideshow_controls_style": "none",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "padding-block-start": 40,
-        "padding-block-end": 40
+        "autoplay_speed": 6,
+        "padding-block-start": 60,
+        "padding-block-end": 0
       }
     },
     "collection_list_osistica": {
