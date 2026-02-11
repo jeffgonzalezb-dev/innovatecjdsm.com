@@ -17,7 +17,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/banner-de-bienvenida-innovatecjdsm.png",
+            "image_1": "shopify://shop_images/electr-nicos-y-tecnolog-a_c1aeadae-7275-4872-a826-92b2c1701354.png",
             "video_1": "shopify://files/videos/Agent_video_Pippit_20260211211118.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -90,7 +90,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/organiza-tu-hogar_7ab977d5-9128-4185-925b-3b7fcd6406e9.png",
+            "image_1": "shopify://shop_images/hogar-y-cocina.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -134,7 +134,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/todo-lo-que-necesitas.png",
+            "image_1": "shopify://shop_images/salud-y-confort.png",
             "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "center",
@@ -178,7 +178,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/descubre-los-m-s-vendidos_9f33eddc-a5e3-40dd-993f-82acc5e852fa.png",
+            "image_1": "shopify://shop_images/mascotas_26c586d0-5aab-46ad-9b84-f1eab6b48ef4.png",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
