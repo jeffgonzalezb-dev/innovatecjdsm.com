@@ -98,7 +98,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p><strong>Contacto:</strong><br/>Teléfono: 3244766717<br/>Email: Innovatecjdsm@gmail.com</p>",
+                    "text": "<h2><strong>Contacto:<br/>Teléfono: 3244766717<br/>Email: Innovatecjdsm@gmail.com</strong></h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -300,32 +300,6 @@
                 "padding-inline-end": 0
               },
               "blocks": {
-                "text_KW9HpT": {
-                  "type": "text",
-                  "name": "t:names.heading",
-                  "settings": {
-                    "text": "<h2>Únete a nuestra comunidad</h2>",
-                    "width": "fit-content",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "h4",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                },
                 "email_signup_dt8JXM": {
                   "type": "email-signup",
                   "name": "t:names.email_signup",
@@ -354,7 +328,6 @@
                 }
               },
               "block_order": [
-                "text_KW9HpT",
                 "email_signup_dt8JXM"
               ]
             }
@@ -509,10 +482,10 @@
         "border_width": 1,
         "border_opacity": 100,
         "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
+        "toggle_overlay": true,
+        "overlay_color": "#8b00ff",
+        "overlay_style": "gradient",
+        "gradient_direction": "to bottom",
         "padding-block-start": 24,
         "padding-block-end": 24
       }
