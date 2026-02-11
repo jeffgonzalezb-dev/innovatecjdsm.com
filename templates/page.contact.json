@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.title",
           "settings": {
-            "text": "<h1>Contáctanos</h1>",
+            "text": "",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
@@ -37,37 +37,10 @@
             "padding-inline-end": 0
           },
           "blocks": {}
-        },
-        "content": {
-          "type": "text",
-          "name": "t:names.content",
-          "settings": {
-            "text": "<h2>Nuestros canales</h2><p>Tenemos múltiples opciones para que nos contactes. Chatea mediante WhatsApp a través del siguiente link:</p>",
-            "width": "100%",
-            "max_width": "narrow",
-            "alignment": "center",
-            "type_preset": "rte",
-            "font": "var(--font-primary--family)",
-            "font_size": "",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         }
       },
       "block_order": [
-        "title",
-        "content"
+        "title"
       ],
       "settings": {
         "content_direction": "column",
@@ -81,7 +54,7 @@
       "type": "custom-liquid",
       "name": "t:names.custom_liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; flex-direction: column; align-items: center; gap: 24px; text-align: center;\">\n  <a href=\"https://wa.me/573244766717\" style=\"display: inline-block; background-color: #25D366; color: white; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 14px; border: none; cursor: pointer; transition: background-color 0.3s ease;\" target=\"_blank\">Hablemos por WhatsApp</a>\n  \n  <p style=\"margin: 16px 0 0 0; font-size: 16px; font-weight: 500;\">Otras opciones:</p>\n  \n  <div style=\"display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 300px;\">\n    <a href=\"https://www.facebook.com/profile.php?id=61587864241598\" style=\"display: block; background-color: #0084FF; color: white; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 14px; border: none; cursor: pointer; transition: background-color 0.3s ease;\" target=\"_blank\">Escríbenos por Messenger</a>\n  </div>\n</div>",
+        "custom_liquid": "<div style=\"display: flex; flex-direction: column; align-items: center; gap: 24px; text-align: center;\">\n  <h1 style=\"background: linear-gradient(90deg, #E63946 0%, #8B00FF 50%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); font-weight: 900; letter-spacing: -1px; margin: 0 0 16px 0; padding: 10px 0; font-size: 2.5em;\">Contáctanos</h1>\n  \n  <h2 style=\"background: linear-gradient(90deg, #E63946 0%, #8B00FF 50%, #06D6A0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); font-weight: 700; letter-spacing: -0.5px; margin: 16px 0 12px 0; padding: 8px 0; font-size: 1.75em;\">Nuestros canales</h2>\n  \n  <p style=\"margin: 0 0 24px 0; font-size: 16px; line-height: 1.6; max-width: 500px;\">Tenemos múltiples opciones para que nos contactes. Chatea mediante WhatsApp a través del siguiente link:</p>\n  \n  <a href=\"https://wa.me/573244766717\" style=\"display: inline-block; background-color: #25D366; color: white; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 14px; border: none; cursor: pointer; transition: background-color 0.3s ease;\" target=\"_blank\">Hablemos por WhatsApp</a>\n  \n  <p style=\"margin: 24px 0 12px 0; font-size: 16px; font-weight: 500;\">Otras opciones:</p>\n  \n  <div style=\"display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 300px;\">\n    <a href=\"https://www.facebook.com/profile.php?id=61587864241598\" style=\"display: block; background-color: #0084FF; color: white; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 14px; border: none; cursor: pointer; transition: background-color 0.3s ease;\" target=\"_blank\">Escríbenos por Messenger</a>\n  </div>\n</div>",
         "color_scheme": "",
         "section_width": "page-width",
         "padding-block-start": 32,
