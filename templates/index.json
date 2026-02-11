@@ -349,7 +349,7 @@
         "full_frame_on_mobile": false,
         "slideshow_gap": 17,
         "corner_radius": 0,
-        "slide_height": "medium",
+        "slide_height": "small",
         "content_position": "on-media",
         "color_scheme": "scheme-logo-blue",
         "icons_style": "arrow",
@@ -357,7 +357,7 @@
         "slideshow_controls_style": "none",
         "autoplay": true,
         "autoplay_speed": 6,
-        "padding-block-start": 60,
+        "padding-block-start": 0,
         "padding-block-end": 0
       }
     },
