@@ -1433,11 +1433,11 @@
           "type": "image",
           "name": "t:names.image",
           "settings": {
-            "image": "shopify://shop_images/home-decor-natural-2.jpg",
+            "image": "shopify://shop_images/productos-tecnol-gicos-premium-para-el-hogar.png",
             "link": "",
-            "image_ratio": "adapt",
+            "image_ratio": "landscape",
             "width": "custom",
-            "custom_width": 30,
+            "custom_width": 57,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
             "height": "fit",
@@ -1455,7 +1455,7 @@
         "text_eFMntb": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Un nuevo proposito para esos articulos que merecen otra oportunidad.</strong></p>",
+            "text": "<p><strong>Tecnología e innovación para tu hogar al mejor precio. Encuentra productos de calidad con envío rápido a toda Colombia.</strong></p>",
             "width": "100%",
             "max_width": "narrow",
             "alignment": "center",
@@ -1466,7 +1466,7 @@
             "letter_spacing": "normal",
             "case": "none",
             "wrap": "pretty",
-            "color": "",
+            "color": "var(--color-primary)",
             "background": false,
             "background_color": "#00000026",
             "corner_radius": 0,
@@ -1480,7 +1480,7 @@
         "button_TmU98M": {
           "type": "button",
           "settings": {
-            "label": "Explora los articulos →",
+            "label": "Ver todo los productos",
             "link": "shopify://collections/all",
             "open_in_new_tab": false,
             "style_class": "button",
