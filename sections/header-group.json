@@ -80,7 +80,7 @@
       },
       "settings": {
         "logo_position": "center",
-        "menu_position": "right",
+        "menu_position": "left",
         "menu_row": "bottom",
         "show_search": true,
         "search_position": "left",
