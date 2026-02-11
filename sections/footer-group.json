@@ -98,7 +98,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<h2><strong>Contacto:<br/>Teléfono: 3244766717<br/>Email: Innovatecjdsm@gmail.com</strong></h2>",
+                    "text": "<h2><strong>Contacto:<br/>Teléfono: +57 3244766717<br/>Email: Innovatecjdsm@gmail.com</strong></h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -377,6 +377,14 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "custom_liquid_9CqRCA": {
+              "type": "custom-liquid",
+              "name": "t:names.custom_liquid",
+              "settings": {
+                "custom_liquid": "<style>\n  @media (max-width: 768px) {\n    [data-section-id=\"sections--21624705089748__section_beBRk7\"] .group_cRC6jB button {\n      padding: 8px 16px !important;\n      font-size: 12px !important;\n      min-height: 40px !important;\n      min-width: 40px !important;\n    }\n  }\n</style>"
+              },
+              "blocks": {}
+            },
             "text_Y6cDGy": {
               "type": "text",
               "name": "t:names.text",
@@ -407,7 +415,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "",
+                "label": "TikTok",
                 "link": "https://www.tiktok.com/@innovatecjdsm",
                 "open_in_new_tab": true,
                 "style_class": "button",
@@ -422,7 +430,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "",
+                "label": "WhatsApp",
                 "link": "https://wa.me/573244766717",
                 "open_in_new_tab": true,
                 "style_class": "button",
@@ -437,12 +445,12 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "",
+                "label": "Facebook",
                 "link": "https://www.facebook.com/profile.php?id=61587864241598",
                 "open_in_new_tab": true,
                 "style_class": "button",
                 "width": "fit-content",
-                "custom_width": 100,
+                "custom_width": 0,
                 "width_mobile": "fit-content",
                 "custom_width_mobile": 100
               },
@@ -450,6 +458,7 @@
             }
           },
           "block_order": [
+            "custom_liquid_9CqRCA",
             "text_Y6cDGy",
             "button_pRhdKh",
             "button_RQepmi",
