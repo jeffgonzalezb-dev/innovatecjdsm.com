@@ -380,7 +380,7 @@
         "slide_height": "small",
         "content_position": "on-media",
         "color_scheme": "scheme-logo-blue",
-        "icons_style": "arrow",
+        "icons_style": "none",
         "icons_shape": "none",
         "slideshow_controls_style": "none",
         "autoplay": true,
