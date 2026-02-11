@@ -765,7 +765,7 @@
           "type": "text",
           "name": "t:names.header",
           "settings": {
-            "text": "<h3>You may also like </h3>",
+            "text": "<h1>Otros productos que te gustarán</h1>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
