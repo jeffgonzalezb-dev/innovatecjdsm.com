@@ -348,7 +348,7 @@
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "center",
-            "gap": 16,
+            "gap": 20,
             "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
@@ -377,6 +377,32 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "text_Y6cDGy": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<h2>Síguenos</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
             "button_pRhdKh": {
               "type": "button",
               "name": "t:names.button",
@@ -386,7 +412,7 @@
                 "open_in_new_tab": true,
                 "style_class": "button",
                 "width": "fit-content",
-                "custom_width": 100,
+                "custom_width": 0,
                 "width_mobile": "fit-content",
                 "custom_width_mobile": 100
               },
@@ -424,6 +450,7 @@
             }
           },
           "block_order": [
+            "text_Y6cDGy",
             "button_pRhdKh",
             "button_RQepmi",
             "button_EyPEWe"
