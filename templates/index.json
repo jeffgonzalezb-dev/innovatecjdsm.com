@@ -16,8 +16,8 @@
           "type": "_slide",
           "name": "t:names.slide",
           "settings": {
-            "media_type_1": "video",
-            "image_1": "shopify://shop_images/calidad-en-cada-producto_0835b55f-4958-4d13-8819-09ddebb4cdb2.png",
+            "media_type_1": "image",
+            "image_1": "shopify://shop_images/banner-de-bienvenida-innovatecjdsm.png",
             "video_1": "shopify://files/videos/Agent_video_Pippit_20260211211118.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
