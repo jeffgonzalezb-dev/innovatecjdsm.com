@@ -98,7 +98,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p><strong>Contacto:</strong><br/>Teléfono: 3244766717<br/>Email: Innovatecjdsm@gmail.com</p>",
+                    "text": "<p><strong>Contacto:</strong><br/>Teléfono: +57 3244766717<br/>Email: Innovatecjdsm@gmail.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
