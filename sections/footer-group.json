@@ -363,7 +363,7 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
+            "border_radius": 50,
             "toggle_overlay": false,
             "overlay_color": "#00000026",
             "overlay_style": "solid",
@@ -377,6 +377,21 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "button_pRhdKh": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "TikTok",
+                "link": "https://www.tiktok.com/@innovatecjdsm",
+                "open_in_new_tab": true,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            },
             "button_RQepmi": {
               "type": "button",
               "name": "t:names.button",
@@ -409,6 +424,7 @@
             }
           },
           "block_order": [
+            "button_pRhdKh",
             "button_RQepmi",
             "button_EyPEWe"
           ]
