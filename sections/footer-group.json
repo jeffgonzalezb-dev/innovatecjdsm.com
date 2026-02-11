@@ -210,7 +210,7 @@
                       "name": "t:names.button",
                       "settings": {
                         "label": "Ayuda y preguntas frecuentes",
-                        "link": "shopify://pages/contact",
+                        "link": "/pages/preguntas-frecuentes",
                         "open_in_new_tab": false,
                         "style_class": "button",
                         "width": "fit-content",
