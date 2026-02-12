@@ -85,6 +85,19 @@
             "padding-inline-end": 8
           },
           "blocks": {
+            "review_PzffcX": {
+              "type": "review",
+              "name": "t:names.product_review_stars",
+              "settings": {
+                "stars_style": "shaded",
+                "show_number": true,
+                "rating_color": "primary",
+                "type_preset": "paragraph",
+                "width": "100%",
+                "alignment": "left"
+              },
+              "blocks": {}
+            },
             "card-gallery": {
               "type": "_product-card-gallery",
               "settings": {
@@ -149,6 +162,7 @@
             }
           },
           "block_order": [
+            "review_PzffcX",
             "card-gallery",
             "product_title_4nY4eT",
             "price_EzJzMm"
