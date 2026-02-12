@@ -696,6 +696,7 @@
         "block_cb4e91a35ec7",
         "block_ce9b3922bd5f"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "full-width",
         "gap": 48,
