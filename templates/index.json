@@ -477,7 +477,8 @@
           "mascotas",
           "electronicos-y-tecnologia",
           "bano-y-dormitorio",
-          "salud-y-confort"
+          "salud-y-confort",
+          "belleza"
         ],
         "layout_type": "grid",
         "carousel_on_mobile": false,
