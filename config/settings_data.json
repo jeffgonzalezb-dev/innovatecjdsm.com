@@ -104,6 +104,11 @@
         "type": "shopify://apps/leo-preloader/blocks/app-embed/019ae8ee-1515-78ef-b4d8-8ad9f4671f2c",
         "disabled": false,
         "settings": {}
+      },
+      "5134484470793087125": {
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
