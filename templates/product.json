@@ -298,7 +298,7 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 50,
+            "border_radius": 32,
             "toggle_overlay": true,
             "overlay_color": "#cddfe5",
             "overlay_style": "solid",
@@ -741,7 +741,7 @@
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
+        "gap": 7,
         "section_width": "page-width",
         "section_height": "",
         "section_height_custom": 50,
@@ -758,7 +758,7 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 0,
-        "padding-block-end": 22
+        "padding-block-end": 0
       }
     },
     "product_recommendations_qggXJq": {
